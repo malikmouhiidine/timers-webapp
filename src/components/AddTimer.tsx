@@ -85,8 +85,8 @@ const AddTimer: FC<Props> = ({ onAdd }) => {
             transform: "translate(-50%, -50%)",
             width: "min(375px, 95%)",
             height: "347px",
-            borderRadius: "20px",
             border: "1px solid var(--stroke-color)",
+            borderRadius: "20px",
           },
         }}
         contentLabel="Add Timer"
