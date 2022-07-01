@@ -28,3 +28,7 @@ First of all, the design of the "Alarms & Clocks" app on my Windows 10 wasn't fo
 - Commit your changes
 - Push your changes to the master branch
 - Open an issue or pull request
+
+**The color scheme was inspired by the colors of the [Amethyst](https://en.wikipedia.org/wiki/Amethyst):**
+
+![365px-Amatista_Laye_2](https://user-images.githubusercontent.com/73129654/176967840-e9aaae87-a4d3-457d-9c9a-ac46b06ab105.jpg)
