@@ -2,7 +2,7 @@
 
 # Timers
 
-A website to create timers, simply put.
+Simply put, a website to create timers.
 
 ## The reason behind building this project
 
