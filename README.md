@@ -1,6 +1,6 @@
 <p align="center"><a href="https://timersapp.surge.sh/" target="_blank"><img src="https://user-images.githubusercontent.com/73129654/176959253-c144c09c-346a-439d-a8d3-38fd3b8b8244.png" align="center"></a></p>
 
-# Timers
+# Timers (Fully Accessible)
 
 Simply put, a website to create timers.
 
